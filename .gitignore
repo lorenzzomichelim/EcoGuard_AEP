@@ -1,0 +1,10 @@
+target/
+*.class
+.idea/
+.vscode/
+.env
+.env.*
+*.log
+*.bak
+*.backup
+*.dump
